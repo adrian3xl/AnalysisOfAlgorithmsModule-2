@@ -1,0 +1,3 @@
+rootProject.name = 'Analysis-of-Algorithms-Module-2'
+include 'testAstarSearch'
+
