@@ -5,7 +5,7 @@
 
 /**
  *
- * @author adria
+ * @author Adrian
  */
 public class App__Main extends javax.swing.JFrame {
 
